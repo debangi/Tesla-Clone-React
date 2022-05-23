@@ -33,6 +33,13 @@ const Home = () => {
         leftBtnText='Custom Order'
         rightBtnText='Existing Inventory'
       />
+      <Section
+        title='Lowest Cost Solar Panels in America'
+        description='Money-back guarantee'
+        backgroundImg='solar-panel.jpg'
+        leftBtnText='Order now'
+        rightBtnText='Learn more'
+      />
     </Container>
   );
 };
